@@ -1,0 +1,1 @@
+dotnet publish -v:q -c Release -r win-x64 /p:PublishSingleFile=true -o C:\Projects\Demoscene\PurpleVortex\Tools /p:AssemblyName=tcc TICCompiler.csproj

@@ -1,0 +1,9 @@
+{
+  "profiles": {
+    "TicTool": {
+      "commandName": "Project",
+      "commandLineArgs": "-sprite presents.png ..\\Source\\Sprites\\presents.lua Sprites.Presents",
+      "workingDirectory": "C:\\Projects\\Demoscene\\PurpleVortex\\Assets"
+    }
+  }
+}

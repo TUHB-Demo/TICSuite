@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "TICCompiler": {
+      "commandName": "Project",
+      "commandLineArgs": "C:\\Projects\\Demoscene\\PurpleVortex\\Source\\main.lua C:\\Projects\\Demoscene\\PurpleVortex\\Output\\PurpleVortex.lua"
+    }
+  }
+}
